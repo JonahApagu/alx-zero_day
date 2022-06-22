@@ -1,3 +1,4 @@
 //ignore Emac files
 /.emacs.desktop
 /.emacs.desktop.lock
+*~
